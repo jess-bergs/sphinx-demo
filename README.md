@@ -1,3 +1,1 @@
-# The readme of somemodule
-
-Some text
+Simple demo of Sphinx for auto-documenting a Python module
